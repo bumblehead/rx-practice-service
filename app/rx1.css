@@ -1,0 +1,10 @@
+/* Filename: rx1.css  
+ * Timestamp: 2016.03.05-21:06:04 (last modified)
+ * Author(s): bumblehead <chris@bumblehead.com>  
+ */
+
+body {
+  background-color: green;
+  height: 50px;
+  border: 1px solid red;
+}
